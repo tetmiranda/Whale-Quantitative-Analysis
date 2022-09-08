@@ -1,9 +1,13 @@
+![Combined-Whale-Returns](Image/mod4-background-image.JPG)
+
 # Background
 Many investors are investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
 
 What I'ver learned with quantitative analysis techniques with Python and Pandas would be the best to determine which portfolio is performing across multiple areas such as: volatility, returns, risk, and Sharpe ratios.
 
+
 # Instructions
+
 The instructions for this assignment are divided into three parts:
 
 1. Prepare the Data
@@ -26,14 +30,17 @@ The whale portfolios and algorithmic portfolio CSV files contain daily returns, 
 
 And combined Whale Returns, Algorithmic Returns, and the S&P TSX 60 Returns into a single DataFrame with columns for each portfolio's returns.
 
-## Conduct Quantitative Analysis
-![Combined-Whale-Returns](combined-whale-returns.JPG)
+# Conduct Quantitative Analysis
+### Combined-Whale-Returns
+![Combined-Whale-Returns](Image/combined-whale-returns.JPG)
 
-![Calculate and Plot the daily returns](Quant-Performance-Analysis.JPG)
+### Calculated and Plot the daily returns
+![Calculate and Plot the daily returns](Image/Quant-Performance-Analysis.JPG)
 
-![Calculate and Plot cumulative returns](Quant-Cumulative-Returns.JPG)
+### Calculated and Plot cumulative returns
+![Calculate and Plot cumulative returns](Image/Quant-Cumulative-Returns.JPG)
 
 # Create a Custom Portfolio
 Created a Custom Portfolio and joined the portfolio returns to the DataFrame that contains all of the portfolio returns of: whale_returns, algo_returns & sp_tsx_history
 
-![Joined Porfolio](custom-portfolio.JPG)
+![Joined Porfolio](Image/custom-portfolio.JPG)
